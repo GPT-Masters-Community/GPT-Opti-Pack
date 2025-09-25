@@ -8,7 +8,7 @@
 
 <div align="center">
   <a href="https://cutt.ly/0rNMGlm3" target="_blank">
-    <img src="https://img.shields.io/badge/Launch-GPT-3498db" alt="Launch GPTOptiPack" width="400" height="85" style="border:none;">
+    <img src="https://img.shields.io/badge/Launch-GPT-3498db" alt="Launch GPTOptiPack" width="300" height="70" style="border:none;">
   </a>
 </div>
 
